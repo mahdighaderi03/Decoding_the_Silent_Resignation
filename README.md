@@ -1,4 +1,4 @@
-# Decoding the Silent Resignation: Predicting Employee Job Change Intent
+# Decoding the Silent Resignation: How AI Spots At-Risk Employees Before They Leave
 
 This project analyzes a dataset of employee information to build a predictive model that identifies which individuals are looking for a new job. In an era of "The Great Resignation" and "quiet quitting," understanding the drivers of employee turnover is crucial for companies aiming to improve retention and talent management.
 
